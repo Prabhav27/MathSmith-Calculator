@@ -6,7 +6,6 @@
 }
 body{
     background-color: #000;
-    background-color: #555;
     animation: fadein 1.5s;
     display: flex;
     flex-direction: column;
