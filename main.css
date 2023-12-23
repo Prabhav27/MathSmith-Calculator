@@ -562,18 +562,24 @@ font-size: 1.2rem;
         margin-top: 3rem;
     }
     .eq{
-        font-size: 2rem;
-        margin-top: -0.3rem;
+        font-size: 1.8rem;
+        margin-top: -0.5rem;
+        margin-right: 0.5rem;
+        margin-left: 0;
     }
     .qres{
         width: 4rem;
         height: 2rem;
-        font-size: 1.5rem;
+        font-size: 1.1rem;
+        margin-left: 1.2rem;
+        margin-right: 0;
     }
     .res{
         margin-top: -0.5rem;
-        margin-right: 2rem;
-        width: 15.5rem;
+        margin-right: 0.8rem;
+        margin-left: 0;
+        /* margin-right: 2rem; */
+        width: 16.5rem;
         height: 2.5rem;
         font-size: 1.5rem;
     }
