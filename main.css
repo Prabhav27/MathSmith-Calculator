@@ -514,7 +514,7 @@ font-size: 1.2rem;
  }
  @media (max-width:500px) and (max-height:950px) {
     .con{
-        height: 80vh;
+        height: 75vh;
         width: 95vw;
         border: 0.1rem solid white;
     display: flex;
@@ -573,7 +573,7 @@ font-size: 1.2rem;
     .res{
         margin-top: -0.5rem;
         margin-right: 2rem;
-        width: 9.5rem;
+        width: 15.5rem;
         height: 2.5rem;
         font-size: 1.5rem;
     }
